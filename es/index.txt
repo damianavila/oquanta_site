@@ -5,16 +5,40 @@
 .. link: 
 .. description: 
 
-.. class:: span4
+.. class:: span9
 
 .. figure:: http://damianavila.github.com/oquanta_site/galleries/Logos/oquanta_logo.png
    :target: http://damianavila.github.com/oquanta_site/galleries/Logos/oquanta_logo.png
 
-Why OQUANTA?
-------------
+*Working with real data to provide you with suitable models to understand your world...*
+----------------------------------------------------------------------------------------
 
-Static websites are safer, use fewer resources, and avoid vendor and platform lockin.
-You can read more about this in the `Nikola Handbook. </handbook.html#why-static>`__
+Products
+   Comming soon...
 
+.. class:: btn btn-inverse
+
+`Get more details >> <http://damianavila.github.com/oquanta_site/products.html>`_
+
+Services 
+   Comming soon...
+
+.. class:: btn btn-inverse
+
+`Find out more >> <http://damianavila.github.com/oquanta_site/services.html>`_
+
+Consulting
+   We have experience modeling real-world problems from financial, biological and social areas. 
+
+.. class:: btn btn-inverse
+
+`Consult >> <http://damianavila.github.com/oquanta_site/consulting.html>`_
+
+Training
+   We provided courses in financial modeling and biostatistics using Python.   
+
+.. class:: btn btn-inverse
+
+`Schedule >> <http://damianavila.github.com/oquanta_site/training.html>`_
 
 
