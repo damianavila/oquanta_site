@@ -10,8 +10,31 @@
 .. figure:: http://www.oquanta.info/galleries/Logos/oquanta_logo.png
    :target: http://www.oquanta.info/galleries/Logos/oquanta_logo.png
 
-*Working with real data to provide you with suitable models to understand your world...*
-----------------------------------------------------------------------------------------
+   **OQUANTA**
+
+   **"WORKING WITH DATA TO UNDERSTAND THE WORLD"**
+   
+Services
+   We offer **Data Analysis** and **Modeling** as a service. 
+   Our focus is the **quant (financial) arena**, but we also provide solutions for **biological** and **social** data.
+
+.. class:: btn btn-inverse
+
+`Find out more >> <http://damianavila.github.com/oquanta_site/services.html>`_
+
+Consulting
+   We have **experience** analysing and modeling **real-world** problems. If you need **help**, just talk to us! 
+
+.. class:: btn btn-inverse
+
+`Consult >> <http://damianavila.github.com/oquanta_site/consulting.html>`_
+
+Training
+   We provided **courses** in **financial modeling** and **biostatistics** using Python. Stay tuned for the next one!  
+
+.. class:: btn btn-inverse
+
+`Schedule >> <http://damianavila.github.com/oquanta_site/training.html>`_
 
 Products
    Comming soon...
@@ -19,26 +42,3 @@ Products
 .. class:: btn btn-inverse
 
 `Get more details >> <http://damianavila.github.com/oquanta_site/products.html>`_
-
-Services 
-   Comming soon...
-
-.. class:: btn btn-inverse
-
-`Find out more >> <http://damianavila.github.com/oquanta_site/services.html>`_
-
-Consulting
-   We have experience modeling real-world problems from financial, biological and social areas. 
-
-.. class:: btn btn-inverse
-
-`Consult >> <http://damianavila.github.com/oquanta_site/consulting.html>`_
-
-Training
-   We provided courses in financial modeling and biostatistics using Python.   
-
-.. class:: btn btn-inverse
-
-`Schedule >> <http://damianavila.github.com/oquanta_site/training.html>`_
-
-
