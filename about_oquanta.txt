@@ -5,7 +5,26 @@
 .. link: 
 .. description: 
 
-lalala
+**Company Mission**
+   We will analize your data and generate suitable models to help you understand your domain-specific problems.  
 
+**More about us** 
+   We have development experience solving complex real-world problems. 
 
+   Our areas of expertise include finance, biostatistics, and the growing  category of data science.
+
+   We have focused on scientific computing, algorithm development, graphics and interactive data visualization. 
+
+   We are pythonic boys. So we use IPython, NumPy, SciPy and Matplotlib as a core scientific Python.    
+
+   We also embrace new pythonic libraries such as Pandas, Statsmodels and Scikit-learn.
+
+   We are headquartered in Buenos Aires, Argentina.
+
+**Our team in action** 
+   In the last PyCon US (2012).
+
+.. raw:: html
+
+   <iframe width="800" height="600" src="http://www.youtube.com/embed/MIAKOMzRl1I" frameborder="0" allowfullscreen></iframe>
 
