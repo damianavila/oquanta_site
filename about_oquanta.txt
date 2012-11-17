@@ -28,3 +28,10 @@
 
    <iframe width="800" height="600" src="http://www.youtube.com/embed/MIAKOMzRl1I" frameborder="0" allowfullscreen></iframe>
 
+**Some financial models** 
+
+.. figure:: http://www.oquanta.info/galleries/Logos/pyconar2011.png
+   :target: http://www.oquanta.info/galleries/Logos/pyconar2011.png
+
+.. figure:: http://www.oquanta.info/galleries/Logos/pyconar2012.png
+   :target: http://www.oquanta.info/galleries/Logos/pyconar2012.png
